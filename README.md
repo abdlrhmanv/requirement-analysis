@@ -66,3 +66,32 @@ Requirement Analysis is a structured process involving several key activities to
 - Create traceability matrices to ensure all requirements are tracked through development and testing.
 
 These activities work together to build a solid foundation for the design, development, and delivery of high-quality software systems.
+
+## Types of Requirements
+
+Understanding the distinction between Functional and Non‑functional Requirements is essential when analyzing software for a booking management system.
+
+### ⚙️ Functional Requirements
+Functional requirements define *what* the system should do — the specific actions and behaviors it must support. They directly address user needs and system behaviors.
+
+**Examples for Booking Management:**
+- **Search Properties:** Users can search listings based on location, availability, price, and amenities.
+- **User Registration & Authentication:** New users can sign up and log in using credentials.
+- **Booking Creation:** Users can select dates, book a room, and receive booking details.
+- **Booking Management:** Users can view, cancel, or modify bookings.
+- **Notifications & Payment:** The system sends email or SMS booking confirmations and processes payments.
+
+### 🛡️ Non-functional Requirements
+Non-functional requirements specify *how* the system performs — describing characteristics like speed, reliability, and security.
+
+**Examples for Booking Management:**
+- **Performance:** Pages should load within 2 seconds; system supports 1,000 concurrent users with minimal latency.
+- **Security:** All user data must be encrypted at rest and in transit using HTTPS/TLS.
+- **Reliability & Availability:** System uptime ≥ 99.9%, with failover mechanisms in case of server outages.
+- **Scalability:** Should auto‑scale to handle peak seasons like holidays.
+- **Usability:** Interface must be intuitive, mobile‑friendly, and easy to navigate.
+- **Maintainability:** Codebase should be modular and well-documented to facilitate updates.
+
+---
+
+By clearly separating *functional* from *non-functional* requirements, you ensure that the system both **does the right things** and **does them well**.
