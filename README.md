@@ -95,3 +95,8 @@ Non-functional requirements specify *how* the system performs — describing cha
 ---
 
 By clearly separating *functional* from *non-functional* requirements, you ensure that the system both **does the right things** and **does them well**.
+
+# Booking System Use Case Diagram
+
+Below is the use case diagram for the ALX Booking System:
+![Use Case Diagram](images/alx-booking-uc.png)
