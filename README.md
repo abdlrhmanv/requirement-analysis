@@ -100,3 +100,22 @@ By clearly separating *functional* from *non-functional* requirements, you ensur
 
 Below is the use case diagram for the ALX Booking System:
 ![Use Case Diagram](alx-booking-uc.png)
+
+## Acceptance Criteria
+
+**Acceptance Criteria** are a set of predefined requirements that a feature or system must satisfy to be considered complete and acceptable by stakeholders. They provide clear, testable conditions that ensure the delivered functionality meets the user's needs and business expectations.
+
+Acceptance Criteria play a crucial role in Requirement Analysis as they:
+- Help define the scope of a feature clearly.
+- Serve as a basis for validating and verifying that the feature works as intended.
+- Facilitate communication between developers, testers, and stakeholders.
+- Prevent misunderstandings by setting clear expectations.
+
+### Example: Acceptance Criteria for the Checkout Feature in the Booking Management System
+
+- The user must be able to select a property and add it to the booking cart.
+- The system must calculate the total price including taxes and fees accurately.
+- The user must provide valid payment information before confirming the booking.
+- Upon successful payment, a booking confirmation with a unique booking ID should be generated and emailed to the user.
+- If payment fails, an appropriate error message must be displayed and the booking should not be confirmed.
+- The checkout process should complete within 10 seconds under normal network conditions.
