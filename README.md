@@ -34,3 +34,35 @@ Requirement Analysis is one of the most crucial phases of the software developme
    - Clearly defined and validated requirements help ensure that the final product meets user expectations and business goals. This reduces costly rework, ensures quality, and results in higher customer satisfaction.
 
 By investing time and effort into Requirement Analysis, organizations set the stage for smoother development, fewer misunderstandings, and more successful project outcomes.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis is a structured process involving several key activities to ensure that software requirements are thoroughly understood, documented, and validated. The main activities include:
+
+### 📌 Requirement Gathering
+- Conduct interviews with stakeholders to capture their needs and expectations.
+- Use surveys and questionnaires to collect input from a broader audience.
+- Observe end-users in their work environment to understand real workflows.
+- Review existing systems and documents to identify current functionalities and gaps.
+
+### ✍️ Requirement Elicitation
+- Organize brainstorming sessions to generate and clarify ideas.
+- Hold focus groups to gather detailed feedback from selected stakeholders.
+- Build prototypes or mockups to help stakeholders visualize the future system and refine their requirements.
+
+### 📝 Requirement Documentation
+- Prepare a detailed Software Requirements Specification (SRS) document listing all functional and non-functional requirements.
+- Write user stories to describe features from the user's perspective.
+- Create use cases to define how different actors will interact with the system.
+
+### 📊 Requirement Analysis and Modeling
+- Prioritize requirements based on their business value and impact on the project.
+- Perform feasibility analysis to assess technical, financial, and time constraints.
+- Develop models such as data flow diagrams (DFDs) and entity-relationship diagrams (ERDs) to visualize system requirements.
+
+### ✅ Requirement Validation
+- Review documented requirements with stakeholders to ensure completeness and accuracy.
+- Define acceptance criteria to establish when a requirement is considered successfully implemented.
+- Create traceability matrices to ensure all requirements are tracked through development and testing.
+
+These activities work together to build a solid foundation for the design, development, and delivery of high-quality software systems.
