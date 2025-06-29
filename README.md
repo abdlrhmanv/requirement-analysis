@@ -99,4 +99,4 @@ By clearly separating *functional* from *non-functional* requirements, you ensur
 # Booking System Use Case Diagram
 
 Below is the use case diagram for the ALX Booking System:
-![Use Case Diagram](images/alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png)
